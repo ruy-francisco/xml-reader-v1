@@ -1,6 +1,0 @@
-C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader\bin\Debug\ConsoleApp_XmlReader.exe
-C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader\bin\Debug\ConsoleApp_XmlReader.pdb
-C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader\obj\Debug\ConsoleApp_XmlReader.csprojAssemblyReference.cache
-C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader\obj\Debug\ConsoleApp_XmlReader.csproj.CoreCompileInputs.cache
-C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader\obj\Debug\ConsoleApp_XmlReader.exe
-C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader\obj\Debug\ConsoleApp_XmlReader.pdb
