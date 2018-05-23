@@ -1,0 +1,16 @@
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\obj\Debug\ConsoleApp_XmlReader_Tests.csprojAssemblyReference.cache
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\obj\Debug\ConsoleApp_XmlReader_Tests.csproj.CoreCompileInputs.cache
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\ConsoleApp_XmlReader_Tests.dll
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\ConsoleApp_XmlReader_Tests.pdb
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\ConsoleApp_XmlReader.exe
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\ConsoleApp_XmlReader.pdb
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\obj\Debug\ConsoleApp_XmlReader_Tests.csproj.CopyComplete
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\obj\Debug\ConsoleApp_XmlReader_Tests.dll
+C:\Users\ruy\Documents\Training\CSharp\xml-reader-v1\ConsoleApp_XmlReader_Tests\obj\Debug\ConsoleApp_XmlReader_Tests.pdb
